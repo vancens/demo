@@ -1,0 +1,14 @@
+{
+    "name": "vancens/demo",
+    "description": "demo file",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "vancens",
+            "email": "service@vancens.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
